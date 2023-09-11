@@ -8,11 +8,11 @@
 
    
             matchManagement.AddMatch(new MatchDetails { MatchId = 1, Sport = "Cricket", MatchDateTime = DateTime.Parse("2023-09-07 14:00"), Location = "Wankhede", HomeTeam = "MI", AwayTeam = "CSK", HomeTeamScore = 0, AwayTeamScore = 0 });
-            matchManagement.AddMatch(new MatchDetails { MatchId = 1, Sport = "Cricket", MatchDateTime = DateTime.Parse("2023-09-07 14:00"), Location = "M. A. Chidambaram Stadium", HomeTeam = "CSK", AwayTeam = "RCB", HomeTeamScore = 0, AwayTeamScore = 0 });
-            matchManagement.AddMatch(new MatchDetails { MatchId = 1, Sport = "Cricket", MatchDateTime = DateTime.Parse("2023-09-07 14:00"), Location = "Narendra Modi Stadium", HomeTeam = "GT", AwayTeam = "KKR", HomeTeamScore = 0, AwayTeamScore = 0 });
-            matchManagement.AddMatch(new MatchDetails { MatchId = 1, Sport = "Cricket", MatchDateTime = DateTime.Parse("2023-09-07 14:00"), Location = "Ekana International Cricket Stadium", HomeTeam = "LSG", AwayTeam = "DC", HomeTeamScore = 0, AwayTeamScore = 0 });
-            matchManagement.AddMatch(new MatchDetails { MatchId = 1, Sport = "Cricket", MatchDateTime = DateTime.Parse("2023-09-07 14:00"), Location = "Salt Lake Stadium", HomeTeam = "KKR", AwayTeam = "GT", HomeTeamScore = 0, AwayTeamScore = 0 });
-            matchManagement.AddMatch(new MatchDetails { MatchId = 1, Sport = "Cricket", MatchDateTime = DateTime.Parse("2023-09-07 14:00"), Location = "Dy Patil", HomeTeam = "MI", AwayTeam = "LSG", HomeTeamScore = 0, AwayTeamScore = 0 });
+            matchManagement.AddMatch(new MatchDetails { MatchId = 2, Sport = "Cricket", MatchDateTime = DateTime.Parse("2023-09-07 14:00"), Location = "M. A. Chidambaram Stadium", HomeTeam = "CSK", AwayTeam = "RCB", HomeTeamScore = 0, AwayTeamScore = 0 });
+            matchManagement.AddMatch(new MatchDetails { MatchId = 3, Sport = "Cricket", MatchDateTime = DateTime.Parse("2023-09-07 14:00"), Location = "Narendra Modi Stadium", HomeTeam = "GT", AwayTeam = "KKR", HomeTeamScore = 0, AwayTeamScore = 0 });
+            matchManagement.AddMatch(new MatchDetails { MatchId = 4, Sport = "Cricket", MatchDateTime = DateTime.Parse("2023-09-07 14:00"), Location = "Ekana International Cricket Stadium", HomeTeam = "LSG", AwayTeam = "DC", HomeTeamScore = 0, AwayTeamScore = 0 });
+            matchManagement.AddMatch(new MatchDetails { MatchId = 5, Sport = "Cricket", MatchDateTime = DateTime.Parse("2023-09-07 14:00"), Location = "Salt Lake Stadium", HomeTeam = "KKR", AwayTeam = "GT", HomeTeamScore = 0, AwayTeamScore = 0 });
+            matchManagement.AddMatch(new MatchDetails { MatchId = 6, Sport = "Cricket", MatchDateTime = DateTime.Parse("2023-09-07 14:00"), Location = "Dy Patil", HomeTeam = "MI", AwayTeam = "LSG", HomeTeamScore = 0, AwayTeamScore = 0 });
 
        
 
